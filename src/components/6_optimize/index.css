@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.father {
+  background: cyan;
+  padding: 10px;
+}
+.child {
+  background: pink;
+  padding: 10px;
+}

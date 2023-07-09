@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.a-container {
+  width: 800px;
+  background: cyan;
+  padding: 10px;
+}
+.b-container {
+  width: 600px;
+  background: pink;
+  padding: 10px;
+}
+.c-container {
+  width: 400px;
+  background: #7fdd7f;
+  padding: 10px;
+}
